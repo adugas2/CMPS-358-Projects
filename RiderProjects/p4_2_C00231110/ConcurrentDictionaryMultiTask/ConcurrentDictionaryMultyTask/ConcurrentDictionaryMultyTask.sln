@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConcurrentDictionaryMultyTask", "ConcurrentDictionaryMultyTask\ConcurrentDictionaryMultyTask.csproj", "{6ACF5FA8-0E08-49F4-AB88-BC82545BDF47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6ACF5FA8-0E08-49F4-AB88-BC82545BDF47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ACF5FA8-0E08-49F4-AB88-BC82545BDF47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ACF5FA8-0E08-49F4-AB88-BC82545BDF47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ACF5FA8-0E08-49F4-AB88-BC82545BDF47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fully2wayClient", "Fully2wayClient\Fully2wayClient.csproj", "{D9EDDF41-91C8-4710-84EC-4B40C1C4D061}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9EDDF41-91C8-4710-84EC-4B40C1C4D061}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9EDDF41-91C8-4710-84EC-4B40C1C4D061}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9EDDF41-91C8-4710-84EC-4B40C1C4D061}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9EDDF41-91C8-4710-84EC-4B40C1C4D061}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
